@@ -1,7 +1,8 @@
 # A-Star-Pathfinding
 A visual representation of the A Star Pathfinding Algorithm.
 
-### Learned the A Star Pathfinding Algorithm sourced by https://github.com/techwithtim
+### Learned the A Star Pathfinding Algorithm 
+Reference: https://github.com/techwithtim
 
 - Green represents the starting point.
 - Red represents the ending point.
